@@ -1,4 +1,4 @@
-# Practical Deep Face Recognition with Tensorflow Workshop material 
+# Deep Face Recognition using Tensorflow workshop material 
 (Thursday, August 30, 2018 )
 
  - One-shot & low-shot learning
