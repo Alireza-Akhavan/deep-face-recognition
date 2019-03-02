@@ -23,3 +23,20 @@
 [face Identification & Recognition](https://nbviewer.jupyter.org/github/Alireza-Akhavan/deep-face-recognition/blob/master/03_FaceRecognition-verification%26Identification.ipynb)
 
 [Face alignment with 5 point landmarks](https://nbviewer.jupyter.org/github/Alireza-Akhavan/deep-face-recognition/blob/master/04_MTCNN-wrap-with-landmarks.ipynb)
+
+## Important link
+
+### facenet pretrained model (Tensorflow)
+[davidsandberg/facenet/](https://github.com/davidsandberg/facenet/)
+
+### Sphereface or Angular Softmax (Caffe)
+[wy1iu/sphereface](https://github.com/wy1iu/sphereface)
+
+### ArcFace (MXNet)
+[deepinsight/insightface](https://github.com/deepinsight/insightface)
+
+### AMSoftmax (Caffe)
+[happynear/AMSoftmax](https://github.com/happynear/AMSoftmax)
+
+### Iranian Face Dataset
+[iran-celeb.ir](http://iran-celeb.ir)
