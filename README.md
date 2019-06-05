@@ -171,6 +171,14 @@ paper: https://arxiv.org/pdf/1805.10483.pdf
 dataset: https://wywu.github.io/projects/LAB/WFLW.html
 
 
+# papers:
+[Deep Face Recognition (2015)](http://cis.csuohio.edu/~sschung/CIS660/DeepFaceRecognition_parkhi15.pdf)
+[FaceNet: A Unified Embedding for Face Recognition and Clustering (2015)](https://arxiv.org/abs/1503.03832)
+[A Discriminative Feature Learning Approach for Deep Face Recognition (2016)](https://link.springer.com/chapter/10.1007/978-3-319-46478-7_31)
+[SphereFace: Deep Hypersphere Embedding for Face Recognition (2018)](https://arxiv.org/abs/1704.08063)
+[Additive Margin Softmax for Face Verification (2018)](https://arxiv.org/abs/1801.05599)
+[ArcFace: Additive Angular Margin Loss for Deep Face Recognition (2019)](https://arxiv.org/abs/1801.07698)
+[Deep Face Recognition: A Survey (2019)](https://arxiv.org/pdf/1804.06655)
 
 #### source: 
 	https://github.com/jian667/face-dataset
