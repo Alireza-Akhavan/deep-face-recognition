@@ -182,7 +182,7 @@ dataset: https://wywu.github.io/projects/LAB/WFLW.html
 
 [Additive Margin Softmax for Face Verification (2018)](https://arxiv.org/abs/1801.05599)
 
-[Ring loss: Convex Feature Normalization for Face Recognition(2018)] (https://arxiv.org/abs/1803.00130)
+[Ring loss: Convex Feature Normalization for Face Recognition(2018)](https://arxiv.org/abs/1803.00130)
 
 [ArcFace: Additive Angular Margin Loss for Deep Face Recognition (2019)](https://arxiv.org/abs/1801.07698)
 
