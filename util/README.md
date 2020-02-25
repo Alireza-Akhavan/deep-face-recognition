@@ -1,4 +1,4 @@
-## onvert112_112to112_96.py
+## convert112_112to112_96.py
 "convert112_112to112_96.py" is used to change aligned images size from 112x112 to 112x96.
 
 ### simple usage
