@@ -1,0 +1,6 @@
+pymongo
+requests
+opencv-python
+tensorflow
+mtcnn
+gdown
