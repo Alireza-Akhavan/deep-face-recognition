@@ -17,7 +17,7 @@ client = MongoClient(host='localhost', port=27017)
 db = client.facima # team_name
 #client = MongoClient("mongodb://facima:09371880706@localhost/team_name")
 #db = client['prod-db']
-db.authenticate('facima', '09371880706')
+db.authenticate('facima', '09123456789')
 collection = db.facima # team_name
 collection.remove({})
 
