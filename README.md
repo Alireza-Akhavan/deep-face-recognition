@@ -1,5 +1,10 @@
 # Deep Face Recognition using Tensorflow workshop material 
 
+### Slides:
+[slides](https://docs.google.com/presentation/d/10xwd5wik8xrSB_Eh2Pb213tf9RhITt5IyTrwP8htYm0/edit?usp=sharing)
+
+### Download videos:
+[Videos](http://class.vision/deep-face-recognition/)
 
 ## Important link
 
