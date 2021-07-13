@@ -17,7 +17,7 @@ client = MongoClient(host='localhost', port=27017)
 db = client.facima # team_name
 #client = MongoClient("mongodb://facima:09371880706@localhost/team_name")
 #db = client['prod-db']
-db.authenticate('facima', '09371880706')
+db.authenticate('facima', '0930000000')
 collection = db.facima # team_name
 collection.remove({})
 
@@ -62,10 +62,10 @@ def preprocess(img):
 
 
 def cosine(emb1, emb2):
-    emb12 = np.sum(np.multiply(emb1 , emb2))
-    emb11 = np.sum(np.sqrt(emb1 ** 2))
-    emb22 = np.sum(np.sqrt(emb2 ** 2))
-    distance = emb12 / (emb11 * emb22)
+    emb12 = np.sum(np.multiply(emb1 , emb2), axis=1)
+    emb11 = np.sqrt(np.sum(emb1 ** 2, axis=1))
+    emb22 = np.sqrt(np.sum(emb2 ** 2, axis=1))
+    distance = np.divide(emb12, np.multiply(emb11, emb22))
 
     return float(distance)
 
